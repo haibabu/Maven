@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='2'>
+  <artifact classifier='osgi.bundle' id='org.ancit.workshop.plugin2' version='1.0.0.201601301021'>
+    <properties size='5'>
+      <property name='artifact.size' value='2895'/>
+      <property name='download.size' value='2895'/>
+      <property name='maven-groupId' value='org.ancit.workshop'/>
+      <property name='maven-artifactId' value='org.ancit.workshop.plugin2'/>
+      <property name='maven-version' value='1.0.0-SNAPSHOT'/>
+    </properties>
+  </artifact>
+  <artifact classifier='osgi.bundle' id='org.ancit.workshop.plugin2.source' version='1.0.0.201601301021'>
+    <properties size='6'>
+      <property name='artifact.size' value='1948'/>
+      <property name='download.size' value='1948'/>
+      <property name='maven-groupId' value='org.ancit.workshop'/>
+      <property name='maven-artifactId' value='org.ancit.workshop.plugin2'/>
+      <property name='maven-version' value='1.0.0-SNAPSHOT'/>
+      <property name='maven-classifier' value='sources'/>
+    </properties>
+  </artifact>
+</artifacts>
